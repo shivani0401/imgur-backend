@@ -4,7 +4,7 @@
   "description": "At the end of this milestone you will learn",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
