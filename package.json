@@ -1,0 +1,25 @@
+{
+  "name": "ms_imgur-backend_delphinus_tep_online_full-time_2023_1",
+  "version": "1.0.0",
+  "description": "At the end of this milestone you will learn",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/MS_Imgur-backend_Delphinus_Tep_Online_Full-time_2023_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/MS_Imgur-backend_Delphinus_Tep_Online_Full-time_2023_1/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/MS_Imgur-backend_Delphinus_Tep_Online_Full-time_2023_1#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0"
+  }
+}
